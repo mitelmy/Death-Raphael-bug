@@ -19,7 +19,7 @@ global.location = "India, Rampur, city"
 
 global.ownernumber = '237698581946'  //creator number
 global.ownername = '🐉 Limule Solitarus' //owner name
-global.botname = 'BUTTERFLY-BUG' //name of the bot
+global.botname = 'Death-Raphael-bug' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
